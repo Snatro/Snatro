@@ -47,7 +47,8 @@ nav a{
     clear: both;
     border-width: thick;
     float: left;
-    margin: 3em 6em;
+    width:90%;
+    margin: 3em 3em;
 }
 .musica h2{
     width: fit-content;
@@ -60,14 +61,14 @@ nav a{
 article{
     float:left;
     margin:1em 0.1em;
-    width:30%;
+    width:32.9%;
 }
 article img{
     display:block;
     width:100%;
     margin-left: auto;
     margin-right: auto;
-    height:13em;
+    height:16em;
 }
 
 .deportes{
@@ -75,7 +76,8 @@ article img{
     clear: both;
     border-width: thick;
     float: left;
-    margin: 3em 6em;
+    width:90%;
+    margin: 3em 3em;
 }
 .deportes h2{
     width: fit-content;
