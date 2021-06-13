@@ -1,0 +1,16 @@
+PROJEKT IZ PWA 
+	KAKO POKRENUTI : 
+		1. Potrebno je prebaciti folder "project" u vaš xampp/htdocs direktorij
+		2. Upalite XAMPP aplikaciju, pokrenite Apache i MYSQL
+		3. Potrebno je importati tablice iz "sopitas.sql" u vašu bazu podataka,
+			To činite pomoću Import funkcije na vrhu stranice localhost/phpmyadmin
+		(Ako se pojavi error pri importanju, potrebno je kreirati database po imenu "sopitas" gdje će te importati bazu) 
+		4. Otvorite stranicu index.php u vašem browseru (Pazite da je ne otvorite lokalno jer onda neće raditi)
+		
+		
+		
+		Ukoliko nešto ne funkcionira, provjerite jeste li prebacili projekt u svoj xampp/htdocs folder.
+Ako ni to ne pomaže, koristite kraticu CTRL+SHIFT+R koja briše cache i refresha stranicu.
+(Xampp nekad zna biti spor s ažuriranjem, pa bi ova kratica mogla razriješiti vaš problem s pokretanjem projekta)
+
+	Ukoliko ni idalje imate nekih poteškoća, zamolio bih da se javite profesoru i meni, u slučaju da utvrdimo je li greška u projektu
